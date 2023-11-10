@@ -1,18 +1,20 @@
-### hi i am derp, and i do stuff in my free time here if ever.
+### hi i am derp, and i do stuff in my free time here if ever. :3
 
-- planning to become game dev in the future :questionmark: or just a programmer in general and a music producer tbh.,,
+- planning to become a game dev in the future :questionmark: or just a programmer in general a music producer tbh.,,
 
-```java
-for(;;)
+[**twitter**](https://x.com/iid3rp)
+
+[**my other twitter**](https://x.com/derp1000000)
+[**osu (?)**](https://osu.ppy.sh/users/iid3rp)
+
+–––
+```csharp
+public MyLife();
 {
-    if(!isDead)
-    {
-        startDay();
-        beConsistent();
-    }
-    else System.exit(0);
+    ijbol();
 }
 ```
+–––
 
 <!--
 **How do you edit stuff here?**
