@@ -5,16 +5,17 @@
 [**twitter**](https://x.com/iid3rp)
 
 [**my other twitter**](https://x.com/derp1000000)
-[**osu (?)**](https://osu.ppy.sh/users/iid3rp)
 
-–––
+[**osu stuff**](https://osu.ppy.sh/users/iid3rp)
+
+---
 ```csharp
 public MyLife();
 {
     ijbol();
 }
 ```
-–––
+---
 
 <!--
 **How do you edit stuff here?**
