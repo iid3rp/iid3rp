@@ -8,7 +8,8 @@
 
 [**osu stuff**](https://osu.ppy.sh/users/iid3rp)
 
----```csharp
+---
+```csharp
 public partial class MyLife
 {
     public static void main()
@@ -16,7 +17,8 @@ public partial class MyLife
         ijbol();
     }
 }
-```---
+```
+---
 
 <!--
 **How do you edit stuff here?**
