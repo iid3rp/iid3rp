@@ -3,8 +3,15 @@
 - planning to become game dev in the future :questionmark: or just a programmer in general and a music producer tbh.,,
 
 ```java
-startDay();
-beConsistent();
+for(;;)
+{
+    if(!isDead)
+    {
+        startDay();
+        beConsistent();
+    }
+    else System.exit(0);
+}
 ```
 
 <!--
