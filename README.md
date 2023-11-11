@@ -1,4 +1,4 @@
-### hi i am derp, and i do stuff in my free time here if ever. :3
+### hi i am derp, and i do stuff here in my free time if ever. :3
 
 - planning to become a game dev in the future :questionmark: or just a programmer in general and a music producer tbh.,,
 
